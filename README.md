@@ -12,3 +12,9 @@ https://disk.pku.edu.cn/link/AA554BD9BC0FC24AB58297C3AF98C5D4AA
 文件名：28-qt_homework.zip
 有效期限：2024-07-31 01:21
 提取码：1145
+
+歌曲mp3文件：
+https://disk.pku.edu.cn/link/AA0C103A5D42E54EC3A8DA8D03FCB6356C
+文件夹名：songs
+有效期限：2024-07-31 02:21
+提取码：1567
