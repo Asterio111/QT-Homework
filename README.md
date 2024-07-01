@@ -18,3 +18,4 @@ https://disk.pku.edu.cn/link/AA0C103A5D42E54EC3A8DA8D03FCB6356C
 文件夹名：songs
 有效期限：2024-07-31 02:21
 提取码：1567
+(下载完请放在qlcc文件夹内，即songs文件夹和.pro文件处于同一文件夹下)
